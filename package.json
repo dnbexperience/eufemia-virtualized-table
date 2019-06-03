@@ -4,7 +4,7 @@
   "license": "SEE LICENSE IN LICENSE FILE",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dnbexperience/eufemia.git"
+    "url": "https://github.com/dnbexperience/eufemia-virtualized-table.git"
   },
   "version": "1.0.0",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "css-vars-ponyfill": "^2.0.2",
-    "dnb-ui-lib": "^3.24.0",
+    "dnb-ui-lib": "^3.23.0",
     "gatsby": "^2.8.2",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
